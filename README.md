@@ -49,7 +49,7 @@ campos obrigatórios não podem ser nulos.
 
 ## 🌐 Conecte-se comigo 
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0A66C2?informational?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tainá-sacramento-da-silva-a51b971b0) 
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0A66C2?informational?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/tainá-sacramento-da-silva-a51b971b0](https://www.linkedin.com/in/tain%C3%A1-sacramento-da-silva-a51b971b0/) 
 
 [![Github](https://img.shields.io/badge/Github-black?informational?style=flat&logo=github&logoColor=white)](https://github.com/Taisacra) 
 
